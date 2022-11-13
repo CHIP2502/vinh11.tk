@@ -12,5 +12,5 @@ const CONFIG = {
     mess: 'Tớ biết mà 🥰. I love 3000😘😘😘',
     messDesc: 'còn giờ thì chờ gì nữa mà không inbox cho tớ đi nào.',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://m.me/ZaaraOwO/' 
+    messLink: 'https://m.me/100073388871930/' 
 }
